@@ -1,1 +1,1 @@
-asdasd
+bilgisayardan deneme
