@@ -1,5 +1,8 @@
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Kullanıcıdan 2 sayı girmesi, sonrasında işlemi (+ , – ,*,/ ) seçtirmesini sağlayarak, seçmiş olduğu işleme göre sonucu ekrana yazdıran programı hazırlayınız. ([Örnek Kodu](_01/Program.cs))
+1. Klavyeden girilen 20 sayıdan çift olanların ortalamasını bulup ekrana yazan programı hazırlayınız ([Örnek Kodu](_02/Program.cs)) 
+1. Klavyeden girilen bir sayının OKEK’ini bulmamızı sağlayan programı hazırlayınız ([Örnek Kodu](_03/Program.cs))
+1. Klavyeden girilen bir sayının OBEB’ini bulmamızı sağlayan programı hazırlayınız ([Örnek Kodu](_04/Program.cs))
+1. Klavyeden girilen 20 adet sayıdan kaç tanesinin negatif olduğunu bulan ve ekrana yazdıran programı hazırlayınız. ([Örnek Kodu](_05/Program.cs))
+1. Klavyeden girilen 20 sayıdan en büyüğünü ve en küçüğünü bulup ekrana yazdırmamızı sağlayan programı hazırlayınız ([Örnek Kodu](_06/Program.cs))
+1. 0-X arasındaki sayıları sayının değeri kadar yazdıran programı hazırlayın. Örnek: 122333444455555… ([Örnek Kodu](_07/Program.cs))
+1. Bir bankamatik müşterisine bankamatikten çekmek istediği para sorulacak. Çekeceği paraya göre kaç tane 200’lük, kaç tane 100’lük, kaç tane 50’lik, kaç tane 20’lik, kaç tane 10’luk ve kaç tane 5’lik verilmesi gerektiğini bulan programı yazın. ([Örnek Kodu](_08/Program.cs))
