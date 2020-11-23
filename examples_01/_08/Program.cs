@@ -40,7 +40,7 @@ namespace _08
             divides.Enqueue(10);
             divides.Enqueue(5);
 
-            while (number > 0)
+            while (divides.Count > 0)
             {
                 int divide = divides.Dequeue();
                 long howMany = number / divide;
